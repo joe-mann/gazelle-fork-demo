@@ -1,0 +1,5 @@
+bazel-bin
+bazel-gazelle-fork-demo
+bazel-genfiles
+bazel-out
+bazel-testlogs
